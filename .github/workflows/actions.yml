@@ -3,13 +3,14 @@ name: run main.py
 on:
   schedule:
     - cron: '*/1 * * * *'  # Every minute
+  workflow_dispatch:  # Allows manual trigger from Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository content
-        uses: actions/checkout@v3  # Use the latest version
+        uses: actions/checkout@v3  # Checkout the repo content
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,15 +25,18 @@ jobs:
       - name: Execute Python script
         env:
           SOME_SECRET: ${{ secrets.SOME_SECRET }}
-        run: python main.py
+        run: python main.py  # This should generate log.txt
 
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update log.txt" || echo "No changes to commit"
-
+          if [ -f log.txt ]; then
+            git add log.txt
+            git commit -m "Update log.txt" || echo "No changes to commit"
+          else
+            echo "log.txt not found"
+          fi
 
       - name: Push changes
         run: |
