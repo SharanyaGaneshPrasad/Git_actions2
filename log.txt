@@ -11656,3 +11656,204 @@ Position: (Junior) Elektroingenieur (m/w/d) Automotive
 Position: (Junior) Maschinenbauingenieur (m/w/d)
  Company promosie GmbH
 Position: Consultant & Trainer für Bausoftware & BIM | Bauingenieur & Architekten - Vollzeit (m/w/d)
+ The token is Sharanya
+ Company Qdrant
+Position: Senior Solution Architect
+ Company RITTER Starkstromtechnik GmbH & Co. KG
+Position: Elektroniker / Techniker / Meister als Leiter Service & Wartung (m/w/d)
+ Company CTG Consulting GmbH
+Position: (Junior) HR Consultant PALTRON (all genders) // Hamburg (hybrid)
+ Company Pinck Ingenieure Consulting GmbH & Co. KG
+Position: Projektingenieur für die Planung von heizungs- und kältetechnischer Anlagen (w/m/d)
+ Company Biomatch GmbH
+Position: Teamleitung Produktionstechnik (m/w/d)
+ Company CurveDesign GmbH
+Position: Developer - Node.js (m/w/d)
+ Company dr. Fuchs Personalberatung KG
+Position: Inhouse Consultant SAP Basis / Berechtigungen (w/m/d)
+ Company dr. Fuchs Personalberatung KG
+Position: Inhouse Consultant SAP Finance & Controlling (w/m/d)
+ Company dr. Fuchs Personalberatung KG
+Position: Inhouse SAP Retail Consultants - (w/m/d)
+ Company Störtebekker
+Position: Praktikum Business Development (m/w/d)
+ Company Pinck Ingenieure Consulting GmbH & Co. KG
+Position: Projektingenieur für die Planung der Gebäudeautomation (w/m/d)
+ Company Clevver GmbH
+Position: Praktikant/Trainee im Digitalen Marketing - REMOTE
+ Company handly
+Position: Operations Intern
+ Company Foundever® B.V. & Co. KG
+Position: Home Office Call Center Agent (m/w/d) HARMAN JBL - Technischer Support
+ Company web-netz GmbH
+Position: UX Designer (m/w/d)
+ Company univativ GmbH
+Position: Anwendungsmanager (m/w/d) Verwahrstellen-Software
+ Company Foundever® B.V. & Co. KG
+Position: Home Office Call Center Agent (m/w/d) Küchenzubehör
+ Company Querling GmbH
+Position: Bauhelfer (m/w/d)
+ Company Südvolt GmbH
+Position: Senior IT-Spezialist für Automatisierung und KI (w/m/d)
+ Company farbenmeer GmbH
+Position: (Junior) UX/UI-Designerin d/w/m
+ Company Land & Liebe GmbH
+Position: Ausbildung Kaufmann/-frau im E-Commerce (m/w/d)
+ Company Biomatch GmbH
+Position: Elektroniker für Betriebstechnik / Anlagenelektriker (m/w/d)
+ Company USUMA GmbH
+Position: Testleiter (m/w/d) für die Durchführung eines Gedächtnistests gesucht
+ Company TOWA - the digital growth company
+Position: Technische Projektleitung/Projektmanagement DXP an der Schnittstelle von IT & Marketing (w/d/m), München
+ Company TOWA - the digital growth company
+Position: Technische Projektleitung/Projektmanagement DXP an der Schnittstelle von IT & Marketing (w/d/m), Dortmund
+ Company TOWA - the digital growth company
+Position: Technische Projektleitung/Projektmanagement DXP an der Schnittstelle von IT & Marketing (w/d/m), Hamburg
+ Company PFP - PrivateFinancePartners GmbH
+Position: Praktikant:in/Werkstudent:in (m/w/d) Human Resources & People Development
+ Company wu personal GmbH
+Position: Rollout Techniker (m/w/d)
+ Company Aspire Hotel GmbH
+Position: Head of Human Resources (m/w/d) - Aspire Hotel Group
+ Company Forst- und Anlagenbau J. Reyher e.K.
+Position: Minijobber (m/w/d) im Landschafts- und Gartenbau
+ Company Lisa Automobile GmbH
+Position: Bilanzbuchhalter / Buchhalter (m/w/d) für unser Caravan Center in Marschacht bei Hamburg
+ Company Growing Imaginations GmbH
+Position: Video Designer / Cutter mit Fokus auf Social Ads (all genders) - fully remote
+ Company Pertemps ERP
+Position: SAP FICO Consultant
+ Company puerro - Jonas Wilz und Jonathan Engelhard
+Position: Thesis/Internship: Comparison of Optimization-Algorithms for Energy-Aware Production Scheduling
+ Company eCom Service IT GmbH - m2trust
+Position: DevOps Engineer CI/CD (m/f/d)
+ Company Ares GmbH
+Position: Video Content Creator (m/w/d)
+ Company LT Networks GmbH
+Position: Bauüberwacher (m/w/d) FTTX
+ Company SAP Leanix
+Position: (Senior) Solution Engineer (m/f/d)
+ Company HomeToGo
+Position: Senior DevOps Engineer (m/f/d)
+ Company HomeToGo
+Position: (Junior) IT Specialist - Smoobu (m/f/d)
+ Company HomeToGo
+Position: Senior Controller (m/f/d)
+ Company HomeToGo
+Position: Host & Partner Relations Specialist [German and French speaking] (m/f/d)
+ Company HomeToGo
+Position: Finance Team Lead - Accounts Receivable [German-speaking] (m/f/d)
+ Company HomeToGo
+Position: Senior Data Engineer - Modeling (m/f/d)
+ Company HomeToGo
+Position: Team Lead Accounts Receivable [German-speaking] (m/f/d)
+ Company HomeToGo
+Position: HR Controller (m/f/d)
+ Company HomeToGo
+Position: People Cost Controller (m/f/d)
+ Company Diaverum Deutschland GmbH
+Position: Servicetechniker*in (m/w/d)
+ Company Biomatch GmbH
+Position: Produktionscontroller (m/w/d)
+ Company Foundever® B.V. & Co. KG
+Position: Home Office Call Center Agent (m/w/d) Terminvergabe
+ Company hurra.com
+Position: Freelance UX Designer (m/f/x) for SaaS Platform Interface I 100% remote
+ Company interactive tools GmbH
+Position: Werkstudent UI Design (w/m/d)
+ Company Foundever® B.V. & Co. KG
+Position: Home Office Call Center Agent (m/w/d) Terminvergabe - Teilzeit
+ Company HYDE Executives GmbH
+Position: Supervisor im Bereich Feuerungstechnik (m/w/d)
+ Company univativ GmbH
+Position: Werkstudent Maschinenbau (m/w/d) Einsatz bei der Lufthansa Technik
+ Company HYDE Executives GmbH
+Position: Elektroingenieur(m/w/d)
+ Company ExpertHeads Consulting
+Position: Projektleiter Forschung & Entwicklung / R&D - Senior Entwickler Coatings / Farben & Lacke (m/w/d)
+ Company Wavestone Germany AG
+Position: Data Engineer (m/w/d) Java, Spring Boot, Camunda (Ref.Nr.: 42973)
+ Company niologic
+Position: Werkstudent/in Frontend Development React (m/w/d)
+ Company wu personal GmbH
+Position: Fachkraft für Elektrotechnik (m/w/d) – Schwerpunkt DGUV-Prüfungen
+ Company OlamAid
+Position: Development Manager (m/f/d)
+ Company VNR Group
+Position: Trainee Accounting & Finance (m/w/d)
+ Company VNR Group
+Position: (Junior) Produktmanager Direktmarketing & Content (m/w/d)
+ Company audius SE
+Position: Systemadministrator (m/w/d) Linux / ISP / Virtualisierung
+ Company audius SE
+Position: Netzwerk System Engineer (m/w/d)
+ Company audius SE
+Position: Teamleiter (m/w/d) Netzwerk
+ Company Raisin
+Position: Senior Data Engineer (m/f/d)
+ Company Lista (NexFind Consulting & Fora HR Consulting)
+Position: Head of Finance (f/m/d), full-time in Vienna
+ Company K-tronik GmbH
+Position: Entwicklung und Integration AGN und SCR-System (m/w/x)
+ Company jobs in time medical
+Position: Personalberater/-in (m/w/d) in Hamburg gesucht
+ Company ReSus Consult GmbH
+Position: Kundenberater Tiefbau Innendienst (m/w/d) BW24041
+ Company univativ GmbH
+Position: Werkstudent (m/w/d) IT Support und IT Management
+ Company Melexis GmbH
+Position: Werkstudent (w/m/d) Empfang und Administration
+ Company Glas Wulfmeier GmbH
+Position: Monteur im Glasbau, Glaser, Tischler, Metallbauer gesucht (w.m.d.)
+ Company PACE Telematics GmbH
+Position: DevOps Engineer m/w/d
+ Company Cinemo
+Position: (Senior) AI/ML Engineer - Video (f/m/d)
+ Company Erdbau Thalheim GmbH
+Position: Polier / Vorarbeiter Tiefbau / Straßenbau (m / w / d)
+ Company Erdbau Thalheim GmbH
+Position: Straßenbauer / Tiefbauer  auch Quereinstieg möglich (m / w / d)
+ Company Unmüssig Bauträgergesellschaft Baden mbH
+Position: Bauingenieur als Projektleiter SFB (m/w/d)
+ Company The Better Cat
+Position: Influencer Marketing Manager DACH (m/f/d)
+ Company etalytics GmbH
+Position: Internship: Marketing and Content Creation (m/w/d)
+ Company Work In Progress Textilhandels GmbH
+Position: Ausbildung zum Fachinformatiker für Systemintegration 2025 (m/w/d)
+ Company Work In Progress Textilhandels GmbH
+Position: Duales Studium BWL Handel - Controlling (DHBW Mosbach) mit Studienbeginn 2025 (m/w/d)
+ Company Personalstrategie GmbH
+Position: Senior HR Business Partner m/w/d
+ Company Personalstrategie GmbH
+Position: Elektriker/ Elektroniker/ Mechatroniker in der Instandhaltung und Produktionstechnik m/w/d
+ Company Work In Progress Textilhandels GmbH
+Position: Dh-Studierende Für Data Science & Künstliche Intelligenz 2025 (M/W/D)
+ Company CTG Consulting GmbH
+Position: Associate Candidate Consultant (w/m/d) // Hamburg (hybrid)
+ Company CTG Consulting GmbH
+Position: Associate Client Consultant (w/m/d) // Hamburg (hybrid)
+ Company Cinemo
+Position: (Senior) AI/ML Engineer - Speech/ASR/TTS (f/m/d)
+ Company Wattn Webdesign
+Position: Webdesigner / SEO-Manager (m,w,d) Teilzeit bis 32 h pro Woche, Schleswig-Holstein
+ Company IONOS SE
+Position: Werkstudent (w/m/d) Produktmarketing
+ Company talenthafen GmbH
+Position: HR-Manager (m/w/d) gesucht!
+ Company Agentur Anmut GmbH
+Position: Ausbildung Mediengestalter Digital und Print (m/w/d)
+ Company HR Consult Group AG
+Position: Produktmanager (m/w/d) Praxissoftware
+ Company Agentur Anmut GmbH
+Position: Ausbildung Fachinformatiker für Anwendungsentwicklung (m/w/d)
+ Company univativ GmbH
+Position: (Junior) Softwareentwickler (m/w/d) Java
+ Company univativ GmbH
+Position: (Junior) Elektrotechniker (m/w/d) Inbetriebnahme
+ Company univativ GmbH
+Position: (Junior) Elektroingenieur (m/w/d) Automotive
+ Company univativ GmbH
+Position: (Junior) Maschinenbauingenieur (m/w/d)
+ Company promosie GmbH
+Position: Consultant & Trainer für Bausoftware & BIM | Bauingenieur & Architekten - Vollzeit (m/w/d)
